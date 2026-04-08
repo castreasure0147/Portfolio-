@@ -165,10 +165,12 @@ flex-derection: column;
 }
 
 .about-image img {
-  width: 250px;
+  width: 100%;
   border-radius: 15px;
-  mar-width:500px  ;
-  height: auto ;
+  mar-width:500px;
+  height: auto;
+  margin-bottom: 20px;
+  
 }
 
 .about-text {
