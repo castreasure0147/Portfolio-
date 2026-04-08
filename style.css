@@ -155,6 +155,7 @@ h2::after {
   background: cyan;
   display: block;
   margin: 10px auto;
+  font-weight: 700px;
 }
 
 /* ABOUT */
