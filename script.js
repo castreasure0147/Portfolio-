@@ -80,3 +80,8 @@ form.addEventListener("submit", function (e) {
 
   form.reset();
 });
+
+window.addEventListener("load", function () {
+  const loader = document.getElementById("loader");
+  loader.style.display = "none";
+});
