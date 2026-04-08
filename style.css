@@ -145,6 +145,7 @@ h2 {
   font-size: 32px;
   margin-bottom: 30px;
   position: relative;
+  font-weight: 800px;
 }
 
 h2::after {
