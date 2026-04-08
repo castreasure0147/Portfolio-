@@ -18,7 +18,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: black;
+  color: white;
 }
 body::before {
   content: "";
