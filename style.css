@@ -13,8 +13,11 @@ html {
 
 /* BODY */
 body {
-  background:
-              url("8fe995a608608c8790b7c83b1f727584.jpg") no-repeat center/cover;
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #fff;
 }
 
@@ -299,5 +302,5 @@ footer {
 
   .hero h1 {
     font-size: 28px;
-  }
+  } 
 }
